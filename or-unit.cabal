@@ -2,7 +2,7 @@ name:                or-unit
 version:             0.1.0.0
 synopsis:            Initial project template from stack
 description:         Please see README.md
-homepage:            https://github.com/githubuser/or-unit#readme
+homepage:            https://github.com/mjoldfield/or-unit#readme
 license:             BSD3
 license-file:        LICENSE
 author:              Author name here
