@@ -1,0 +1,24 @@
+
+./Setup.hs,15
+main main1,2
+
+./src/OrUnit.hs,94
+class OrUnit OrUnit5,6
+class OrUnit OrUnit5,6
+  orUnit orUnit6,7
+instance instance8,9
+
+./test/Spec.hs,302
+sqrt' sqrt'6,7
+sqrt' sqrt'7,8
+doubleOrVoid doubleOrVoid9,10
+doubleOrVoid doubleOrVoid10,11
+x x12,13
+testDouble testDouble14,15
+testDVoid testDVoid16,17
+length' length'18,19
+length' length'19,20
+testLength testLength21,22
+testLVoid testLVoid23,24
+main main25,26
+main main26,27
