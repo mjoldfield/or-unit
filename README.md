@@ -11,7 +11,7 @@ return both data and `()` depending on the type instance.
 
 ## Example
 
-The package’s test script shows the idea:
+An excerpt from the package’s test script shows the idea:
 
 
 ```haskell
@@ -52,7 +52,14 @@ Once you’ve installed stack, installing this is easy:
 
 ```
 $ git clone https://github.com/mjoldfield/or-unit.git
+$ cd or-unit
 $ stack test
+...
+or-unit-0.1.0.0: test (suite: or-unit-test)
+
+Cases: 4  Tried: 4  Errors: 0  Failures: 0
+
+Completed 2 action(s).
 ```
 
 Or if you want to tinker:
