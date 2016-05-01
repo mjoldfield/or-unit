@@ -37,7 +37,7 @@ main :: IO Counts
 main = runTestTT $ TestList [ testDouble, testDVoid ]
 ```
 
-On the plus side, we do indeed have a function which returns diffeent
+On the plus side, we do indeed have a function which returns different
 types. However, we need a couple of GHC extensions enabled in the code
 which calls the polymorphic function, and we need to specify more
 types explicitly.
