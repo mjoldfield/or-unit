@@ -67,3 +67,7 @@ Or if you want to tinker:
 ```
 $ stack ghci
 ```
+
+## Discussion
+
+I wrote a longer article [about this](http://www.mjoldfield.com/atelier/2016/05/or-unit.html).
